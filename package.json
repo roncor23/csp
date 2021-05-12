@@ -24,7 +24,7 @@
     },
     "dependencies": {
         "@websanova/vue-auth": "^2.21.14-beta",
-        "chart.js": "^2.9.2",
+        "chart.js": "^2.9.4",
         "es6-promise": "^4.2.5",
         "jquery": "^3.4.1",
         "jw-vue-pagination": "^1.0.3",
